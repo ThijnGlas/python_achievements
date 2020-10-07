@@ -1,0 +1,21 @@
+import math
+
+trees       = 333
+shadedTrees         = math.ceil(222)
+sunnyTrees          = 111
+
+shadeOutputModifier = 80
+
+sunnyTreeOutput     = 146
+shadedTreeOutput    = 116
+
+sunnyOutput         = 16206
+shadedOutput        = 25752
+totalOutput         = 41958
+owners              = 4
+
+eatCount            = 2
+sellableOutput      = 41958
+cut                 = 10489             
+
+print(cut)
